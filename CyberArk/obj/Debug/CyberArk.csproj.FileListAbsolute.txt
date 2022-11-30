@@ -1,0 +1,9 @@
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\bin\Debug\CyberArk.dll
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\bin\Debug\CyberArk.pdb
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\bin\Debug\RestSharp.dll
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\bin\Debug\RestSharp.xml
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.csprojAssemblyReference.cache
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.csproj.CoreCompileInputs.cache
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.csproj.CopyComplete
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.dll
+C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.pdb
