@@ -7,3 +7,12 @@ C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.csproj.CoreCo
 C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.csproj.CopyComplete
 C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.dll
 C:\Users\rhagerm\source\repos\CyberArk\CyberArk\obj\Debug\CyberArk.pdb
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\bin\Debug\CyberArk.dll
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\bin\Debug\CyberArk.pdb
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\bin\Debug\RestSharp.dll
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\bin\Debug\RestSharp.xml
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\obj\Debug\CyberArk.csproj.AssemblyReference.cache
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\obj\Debug\CyberArk.csproj.CoreCompileInputs.cache
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\obj\Debug\CyberArk.csproj.CopyComplete
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\obj\Debug\CyberArk.dll
+C:\Users\phoenix\source\repos\CyberArk-API\CyberArk\obj\Debug\CyberArk.pdb

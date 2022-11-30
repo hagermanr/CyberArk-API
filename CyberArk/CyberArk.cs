@@ -2,7 +2,7 @@
  * Name: CyberArk
  * Type: DLL
  * Author: Ron Hagerman
- * Company: Recreational Equipment Inc. (https://wwww.rei.com)
+ * Company: N/A
  * Purpose: A collection of API calls to any instance of CyberArk to autmate
  * tasks and retrieve report data, etc.
  ******************************************************************************/
@@ -656,18 +656,18 @@ namespace CyberArk
             return response.Content;
         }
 
-        //public static string GetPPlatforms(string token, string pvwa,string active)
-        //{
+        public static string GetPPlatforms(string token, string pvwa, string active)
+        {
 
-        //    RestClient client = new RestClient($"https://{pvwa}/PasswordVault/api/platforms?active={active}");
-        //    client.Timeout = -1;
-        //    RestRequest request = new RestRequest(Method.GET);
-        //    request.AddHeader("Authorization", token);
-        //    request.AddHeader("Content-Type", "application/json");
-        //    IRestResponse response = client.Execute(request);
+            RestClient client = new RestClient($"https://{pvwa}/PasswordVault/api/platforms?active={active}");
+            client.Timeout = -1;
+            RestRequest request = new RestRequest(Method.GET);
+            request.AddHeader("Authorization", token);
+            request.AddHeader("Content-Type", "application/json");
+            IRestResponse response = client.Execute(request);
 
-        //    return response.Content;
-        //}
+            return response.Content;
+        }
 
         public static string GetPlatforms(string token, string pvwa, string active, string name)
         {
