@@ -5,6 +5,9 @@
  * Company: N/A
  * Purpose: A collection of API calls to any instance of CyberArk to autmate
  * tasks and retrieve report data, etc.
+ * 
+ * Change History
+ * Date     Description
  ******************************************************************************/
 
 
